@@ -184,7 +184,7 @@ footer {
 .foo-lower-right a {
   text-decoration: none;
 }
-.foo-lower-right a:visited {
+.foo-lower-right a:visited, .foo-lower-right a:link {
   color: #fff;
 }
 .foo-lower-right a:hover {
